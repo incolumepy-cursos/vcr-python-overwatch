@@ -8,7 +8,7 @@ authors = ["Marcus Pereira <mpereirassa@gmail.com>"]
 python = "^3.8"
 betamax = "^0.8.1"
 requests = "^2.25.1"
-beautifulsoup4 = "^4.9.3"
+bs4 = "^0.0.1"
 
 [tool.poetry.dev-dependencies]
 
